@@ -1,4 +1,0 @@
-interface:
-  display_name: "Resume Job Search"
-  short_description: "Find and rank ten jobs that fit a resume"
-  default_prompt: "Use $resume-job-search to find the top 10 jobs that match my resume."
