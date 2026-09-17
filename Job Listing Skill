@@ -1,0 +1,6 @@
+git init
+git add .agents
+git commit -m "Add resume job search skill"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/resume-job-search-skill.git
+git push -u origin main
